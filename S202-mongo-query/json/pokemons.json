@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Charizard",
+        "spawn_chance": 0.0031
+    },
+    {
+        "name": "Blastoise",
+        "spawn_chance": 0.0067
+    },
+    {
+        "name": "Raichu",
+        "spawn_chance": 0.0076
+    },
+    {
+        "name": "Ninetales",
+        "spawn_chance": 0.0077
+    },
+    {
+        "name": "Vileplume",
+        "spawn_chance": 0.0097
+    },
+    {
+        "name": "Alakazam",
+        "spawn_chance": 0.0073
+    },
+    {
+        "name": "Machamp",
+        "spawn_chance": 0.0068
+    },
+    {
+        "name": "Victreebel",
+        "spawn_chance": 0.0059
+    },
+    {
+        "name": "Golem",
+        "spawn_chance": 0.0047
+    },
+    {
+        "name": "Muk",
+        "spawn_chance": 0.0031
+    },
+    {
+        "name": "Gengar",
+        "spawn_chance": 0.0067
+    },
+    {
+        "name": "Kangaskhan",
+        "spawn_chance": 0.0086
+    },
+    {
+        "name": "Mr. Mime",
+        "spawn_chance": 0.0031
+    },
+    {
+        "name": "Gyarados",
+        "spawn_chance": 0.0032
+    },
+    {
+        "name": "Lapras",
+        "spawn_chance": 0.006
+    },
+    {
+        "name": "Ditto",
+        "spawn_chance": 0
+    },
+    {
+        "name": "Omastar",
+        "spawn_chance": 0.0061
+    },
+    {
+        "name": "Kabutops",
+        "spawn_chance": 0.0032
+    },
+    {
+        "name": "Articuno",
+        "spawn_chance": 0
+    },
+    {
+        "name": "Zapdos",
+        "spawn_chance": 0
+    },
+    {
+        "name": "Moltres",
+        "spawn_chance": 0
+    },
+    {
+        "name": "Dragonite",
+        "spawn_chance": 0.0011
+    },
+    {
+        "name": "Mewtwo",
+        "spawn_chance": 0
+    },
+    {
+        "name": "Mew",
+        "spawn_chance": 0
+    }
+]
